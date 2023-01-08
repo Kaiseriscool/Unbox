@@ -1,0 +1,16 @@
+Copyright (c) 2023 Argon Devloment Team(Freal and Kaiser)
+
+Permission is granted to use and modify this addon with permission from Argon Devloment Team(Freal and Kaiser), subject to the following conditions:
+
+
+- By using this software, you agree to abide by these conditions if applicable.
+- The copyright notice and this permission notice must be included in all copies or substantial portions of the software.
+- You may not sell or distribute any portion of this software for any gain unless very clear credit is given to Argon Devloment Team(Freal and Kaiser) and permission is obtained from Argon Devloment Team(Freal and Kaiser).
+- You may not distribute this software.
+- You may not remove any credit or the provided license.
+- You may not claim ownership or development of any part of this software.
+- Permission to use and modify this software may be revoked at any time by Argon Devloment Team(Freal and Kaiser). If permission is revoked, you must stop using and modifying the software and may not sell or distribute it.
+- You are responsible for any actions taken by any third party that you give access to this software.
+- If any of these conditions are violated, you lose any permission to use or modify this software, and may not sell or distribute it.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
